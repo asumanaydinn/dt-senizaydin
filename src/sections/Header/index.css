@@ -1,0 +1,6 @@
+:where(.css-dev-only-do-not-override-1d4w9r2).ant-btn-variant-solid:not(
+    :disabled
+  ):not(.ant-btn-disabled):hover {
+  background-color: #424244;
+  color: white;
+}
